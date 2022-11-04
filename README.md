@@ -6,6 +6,7 @@
 -   - @danielyerena6 on linkedin
 -   - @danielyerena6 on docker
 -   - @danielyerena6 on github
+-   - yemer.cdaniel@gmail.com on e-mail
 
 <!---
 danielyerena6/danielyerena6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
