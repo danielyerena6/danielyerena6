@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Docker and Kubernetes
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me 
--   - @danielyerena6 on linkedin
--   - @danielyerena6 on docker
--   - @danielyerena6 on github
+-   - [@danielyerena6](https://linkedin.com/danielyerena6) on linkedin
+-   - [@danielyerena6](https://hub.docker.com/u/danielyerena6) on docker
+-   - [@danielyerena6](https://github.com/danielyerena6) on github
 -   - yemer.cdaniel@gmail.com on e-mail
 
 <!---
